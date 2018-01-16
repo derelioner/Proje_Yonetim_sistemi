@@ -1,0 +1,44 @@
+﻿@model ProjeYonetim.Models.ProjeDurumlari
+@{
+    ViewBag.Title = "Yeni";
+    Layout = "~/Views/Shared/adminLayoutPage.cshtml";
+}
+    <div id="page-wrapper">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Yeni Proje Durumu</h1>
+            </div>
+            <!-- /.col-lg-12 -->
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                @using (Html.BeginForm("Yeni", "ProjeDurum", FormMethod.Post))
+                                {
+                                    <div class="form-group">
+                                        <label>Durum Adı</label>
+                                        @Html.TextBoxFor(model => model.DurumAdi, new { @class = "form-control", @required = "required" })
+                                    </div>
+                                   
+                                    <div class="pull-right">
+                                        <a href="/ProjeDurum/Liste" class="btn btn-default">Listele</a>
+                                        <button type="submit" class="btn btn-default">Kaydet</button>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        <!-- /.row (nested) -->
+                    </div>
+                    <!-- /.panel-body -->
+                </div>
+                <!-- /.panel -->
+            </div>
+            <!-- /.col-lg-12 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /#page-wrapper -->

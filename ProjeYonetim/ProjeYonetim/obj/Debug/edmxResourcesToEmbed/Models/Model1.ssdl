@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjeYonetimModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullaniciAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ProjeDurumlari">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DurumAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Projeler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DurumId" Type="int" />
+    <Property Name="KullaniciId" Type="int" />
+    <Property Name="ProjeAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Aciklama" Type="nchar" MaxLength="10" />
+    <Property Name="BaslangicTarihi" Type="datetime" />
+    <Property Name="BitisTarihi" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ProjeYonetim.dbo.VW_Projeler' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="VW_Projeler">
+    <Key>
+      <PropertyRef Name="PROJE_ID" />
+      <PropertyRef Name="KULLANICI_ID" />
+    </Key>
+    <Property Name="PROJE_ID" Type="int" Nullable="false" />
+    <Property Name="DURUM_ID" Type="int" />
+    <Property Name="BaslangicTarihi" Type="datetime" />
+    <Property Name="BitisTarihi" Type="datetime" />
+    <Property Name="KULLANICI_ID" Type="int" Nullable="false" />
+    <Property Name="ProjeAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="DurumAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="KullaniciAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="ProjeYonetimModelStoreContainer">
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProjeDurumlari" EntityType="Self.ProjeDurumlari" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Projeler" EntityType="Self.Projeler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VW_Projeler" EntityType="Self.VW_Projeler" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [VW_Projeler].[PROJE_ID] AS [PROJE_ID], 
+    [VW_Projeler].[DURUM_ID] AS [DURUM_ID], 
+    [VW_Projeler].[BaslangicTarihi] AS [BaslangicTarihi], 
+    [VW_Projeler].[BitisTarihi] AS [BitisTarihi], 
+    [VW_Projeler].[KULLANICI_ID] AS [KULLANICI_ID], 
+    [VW_Projeler].[ProjeAdi] AS [ProjeAdi], 
+    [VW_Projeler].[DurumAdi] AS [DurumAdi], 
+    [VW_Projeler].[KullaniciAdi] AS [KullaniciAdi]
+    FROM [dbo].[VW_Projeler] AS [VW_Projeler]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

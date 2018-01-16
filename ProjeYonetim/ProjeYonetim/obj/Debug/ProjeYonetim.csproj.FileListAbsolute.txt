@@ -1,0 +1,52 @@
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.csprojResolveAssemblyReference.cache
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\ProjeYonetim.dll.config
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\ProjeYonetim.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\ProjeYonetim.pdb
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.SqlServer.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Helpers.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Mvc.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Razor.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.SqlServer.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Razor.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Helpers.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Mvc.xml
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.dll
+C:\Users\Kubilay\Desktop\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.pdb
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\ProjeYonetim.dll.config
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\ProjeYonetim.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\ProjeYonetim.pdb
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.SqlServer.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Helpers.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Mvc.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Razor.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Deployment.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Razor.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\EntityFramework.SqlServer.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Razor.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Deployment.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Webpages.Razor.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Helpers.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\bin\System.Web.Mvc.xml
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.csprojResolveAssemblyReference.cache
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.csproj.CoreCompileInputs.cache
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.dll
+C:\Users\derel\Desktop\mühproje2\Muhendislik Projesi\Yonetim\ProjeYonetim\ProjeYonetim\obj\Debug\ProjeYonetim.pdb
